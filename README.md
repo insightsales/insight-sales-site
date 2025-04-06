@@ -1,1 +1,1 @@
-# insight-sales-site
+insight-sales-site
